@@ -84,7 +84,7 @@ Hashcat mode `5600` is used for NetNTLMv2 hashes.
 
 The screenshot below shows Responder running in the Kali Linux attacker machine, sending poisoned LLMNR and NBT-NS responses, and capturing an NTLMv2-SSP authentication attempt from the `MARVEL` domain.
 
-![Responder capturing LLMNR poisoning activity](../Assets/Screenshots/llmnr-responder-capture.png)
+![Responder capturing LLMNR poisoning activity](../Assets/Screenshots/llmnr-responder-capture.jpeg)
 
 
 ## Result
