@@ -26,11 +26,15 @@ The lab uses a Marvel-themed domain environment with a Windows Server domain con
 ## Completed Reports
 
 - [LLMNR Poisoning](./01-Initial-Attacks/LLMNR-Poisoning.md)
+- [SMB Relay Attack](./01-Initial-Attacks/SMB-Relay-Attack.md)
 
 ## Tools Used
 
 - Responder
 - Hashcat
+- Nmap
+- NetExec
+- Impacket
 - VirtualBox
 - Kali Linux
 - Windows Server
