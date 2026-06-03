@@ -23,10 +23,11 @@ The lab uses a Marvel-themed domain environment with a Windows Server domain con
 | 4 | Domain Compromise | Upcoming |
 | 5 | Additional Attacks | Upcoming |
 
-## Completed Reports
+## Reports
 
 - [LLMNR Poisoning](./01-Initial-Attacks/LLMNR-Poisoning.md)
 - [SMB Relay Attack](./01-Initial-Attacks/SMB-Relay-Attack.md)
+- [Gaining Shell Access](./01-Initial-Attacks/Gaining-Shell-Access.md)
 
 ## Tools Used
 
