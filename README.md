@@ -28,6 +28,7 @@ The lab uses a Marvel-themed domain environment with a Windows Server domain con
 - [LLMNR Poisoning](./01-Initial-Attacks/LLMNR-Poisoning.md)
 - [SMB Relay Attack](./01-Initial-Attacks/SMB-Relay-Attack.md)
 - [Gaining Shell Access](./01-Initial-Attacks/Gaining-Shell-Access.md)
+- [IPv6 DNS Takeover via mitm6](./01-Initial-Attacks/IPv6-DNS-Takeover-via-mitm6.md)
 
 ## Tools Used
 
