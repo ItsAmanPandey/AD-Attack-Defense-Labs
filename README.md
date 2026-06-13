@@ -17,8 +17,8 @@ The lab uses a Marvel-themed domain environment with a Windows Server domain con
 
 | # | Topic | Status |
 |---|---|---|
-| 1 | [Initial Attacks](./01-Initial-Attacks/) | In Progress |
-| 2 | Post-Compromise Enumeration | Upcoming |
+| 1 | [Initial Attacks](./01-Initial-Attacks/) | Complete |
+| 2 | [Post-Compromise Enumeration](./02-Post-Compromise-Enumeration/) | Complete |
 | 3 | Post-Compromise Attacks | Upcoming |
 | 4 | Domain Compromise | Upcoming |
 | 5 | Additional Attacks | Upcoming |
@@ -29,6 +29,7 @@ The lab uses a Marvel-themed domain environment with a Windows Server domain con
 - [SMB Relay Attack](./01-Initial-Attacks/SMB-Relay-Attack.md)
 - [Gaining Shell Access](./01-Initial-Attacks/Gaining-Shell-Access.md)
 - [IPv6 DNS Takeover via mitm6](./01-Initial-Attacks/IPv6-DNS-Takeover-via-mitm6.md)
+- [Post-Compromise Enumeration](./02-Post-Compromise-Enumeration/)
 
 ## Tools Used
 
@@ -37,6 +38,9 @@ The lab uses a Marvel-themed domain environment with a Windows Server domain con
 - Nmap
 - NetExec
 - Impacket
+- ldapdomaindump
+- BloodHound
+- PlumHound
 - VirtualBox
 - Kali Linux
 - Windows Server
