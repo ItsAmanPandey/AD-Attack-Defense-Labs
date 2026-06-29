@@ -19,7 +19,7 @@ The lab uses a Marvel-themed domain environment with a Windows Server domain con
 |---|---|---|
 | 1 | [Initial Attacks](./01-Initial-Attacks/) | Complete |
 | 2 | [Post-Compromise Enumeration](./02-Post-Compromise-Enumeration/) | Complete |
-| 3 | Post-Compromise Attacks | Upcoming |
+| 3 | [Post-Compromise Attacks](./03-Post-Compromise-Attacks/) | Ongoing |
 | 4 | Domain Compromise | Upcoming |
 | 5 | Additional Attacks | Upcoming |
 
@@ -30,6 +30,7 @@ The lab uses a Marvel-themed domain environment with a Windows Server domain con
 - [Gaining Shell Access](./01-Initial-Attacks/Gaining-Shell-Access.md)
 - [IPv6 DNS Takeover via mitm6](./01-Initial-Attacks/IPv6-DNS-Takeover-via-mitm6.md)
 - [Post-Compromise Enumeration](./02-Post-Compromise-Enumeration/)
+- [Pass Attacks](./03-Post-Compromise-Attacks/Pass-Attacks.md)
 
 ## Tools Used
 
@@ -41,6 +42,7 @@ The lab uses a Marvel-themed domain environment with a Windows Server domain con
 - ldapdomaindump
 - BloodHound
 - PlumHound
+- CrackMapExec
 - VirtualBox
 - Kali Linux
 - Windows Server
