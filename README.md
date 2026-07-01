@@ -32,6 +32,7 @@ The lab uses a Marvel-themed domain environment with a Windows Server domain con
 - [Post-Compromise Enumeration](./02-Post-Compromise-Enumeration/)
 - [Pass Attacks](./03-Post-Compromise-Attacks/Pass-Attacks.md)
 - [Token Impersonation](./03-Post-Compromise-Attacks/Token-Impersonation.md)
+- [LNK File Attack](./03-Post-Compromise-Attacks/LNK-File-Attack.md)
 
 ## Tools Used
 
