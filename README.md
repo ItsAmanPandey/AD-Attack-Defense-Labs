@@ -31,6 +31,7 @@ The lab uses a Marvel-themed domain environment with a Windows Server domain con
 - [IPv6 DNS Takeover via mitm6](./01-Initial-Attacks/IPv6-DNS-Takeover-via-mitm6.md)
 - [Post-Compromise Enumeration](./02-Post-Compromise-Enumeration/)
 - [Pass Attacks](./03-Post-Compromise-Attacks/Pass-Attacks.md)
+- [Token Impersonation](./03-Post-Compromise-Attacks/Token-Impersonation.md)
 
 ## Tools Used
 
@@ -43,6 +44,7 @@ The lab uses a Marvel-themed domain environment with a Windows Server domain con
 - BloodHound
 - PlumHound
 - CrackMapExec
+- Metasploit
 - VirtualBox
 - Kali Linux
 - Windows Server
